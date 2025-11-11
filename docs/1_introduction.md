@@ -9,4 +9,5 @@ The main service for this project will be Active Directoty (AD).
 A domain will be created for the company, because the goal is to create a structured database for the users.
 ## Implement users to the database, 
 All of the 10 users will be signed a local user in the domain. The users will get different authentication-levels, where each user will get the right type of access to software, administrative usage and accesscontroll.
-
+## Flowchart using draw.io
+The project will start with a flowchart made in draw.io, every step of the implimentation will be planned.
