@@ -1,13 +1,15 @@
 # Introduction
-This lab is about the implimentation of an active directorym (ad) which shall be used by a small business of 10 users. It will invole following steps:
-## Implementing and installing software on hyperv
-This project will use azure hyperv virtual machines as a main-software. An installation will be made of 3 different types of machines:
-- windows 10 Education, Windows 2019 Server GUI version and Windows 2019 Server CLI-version.
+This lab covers  the implementation of an Active Directorym (AD) environment for a small business with then users.
+## Hyper-V Setup
+The environment is built using Azure Hyper-V virtual machines. Three VM types are installed:
+- Windows 10 Education
+- Windows 2019 Server (GUI)
+- Windows 2019 Server (Core)
 ## Active Directory
-The main service for this project will be Active Directoty (AD). 
-## Creating a domain for the company
-A domain will be created for the company, because the goal is to create a structured database for the users.
-## Implement users to the database, 
-All of the 10 users will be signed a local user in the domain. The users will get different authentication-levels, where each user will get the right type of access to software, administrative usage and accesscontroll.
-## Flowchart using draw.io
-The project will start with a flowchart made in draw.io, every step of the implimentation will be planned.
+The core service of this project is Active Directoty, used to manage users, authentication and access controll within the network. 
+## Domain Configuration
+A new company domain is created to organize and secure user data and network resources.
+## User Management
+Ten users are addes tp the domain with individual authentication levels and access permissions. This ensures correct rights for software and administrive control.
+## Flowchart
+A flowchart is created in **[draw.io](https://www.drawio.com/)** to plan the full implementaion process.
