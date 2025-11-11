@@ -1,5 +1,9 @@
-# Goal and purpose
-The main goal with this project is to create a functional local network (LAN) for a small business which contains 10 local users. The project will involve the implemention of a Active Directory, where a structured database will be used for the the company. The project will show the several steps in implementing a functioning AD for a small business. The goal is to build up a secure and structured platform which constist of following parameters:
-- Basic security will be implemented in the AD.
-- A fall-back hyperv client will be implemented if the first one fails.
-- Document hardware information users will need and their services in use.
+# Goal And Purpose
+The main goal with this project is to create a functional local area network (LAN) for a small business with ten local users. The project includes the implementation of Active Directory (AD) to establish a structured and secure database for the company. 
+
+This documentaion explains the steps required to build a **fully functioning AD environment** designed for a small-scale bussiness use. 
+
+The objective is to develop a secure, stable and well-organized platform based on the following parameters:
+- Implement basic security features within Active Directory.
+- Configure a fallback Hyper-V client to ensure **system redundancy**.
+- Document **hardware information, user accounts and active services used within the network.**
