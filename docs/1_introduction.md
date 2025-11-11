@@ -2,9 +2,9 @@
 This lab covers  the implementation of an Active Directorym (AD) environment for a small business with then users.
 ## Hyper-V Setup
 The environment is built using Azure Hyper-V virtual machines. Three VM types are installed:
-- Windows 10 Education
-- Windows 2019 Server (GUI)
-- Windows 2019 Server (Core)
+- **Windows 10 Education**
+- **Windows 2019 Server (GUI)**
+- **Windows 2019 Server (Core)**
 ## Active Directory
 The core service of this project is Active Directoty, used to manage users, authentication and access controll within the network. 
 ## Domain Configuration
