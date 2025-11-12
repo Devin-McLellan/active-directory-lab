@@ -8,3 +8,7 @@ Research was conducted on Youtube to gain a broader understanding of the functio
 ### Litterature Review
 Backround reading was done on Active Directory structure, domain management and best practices for implementing directory serviceds in a small business environement. 
 ## Requirements
+
+
+
+## USERS 
