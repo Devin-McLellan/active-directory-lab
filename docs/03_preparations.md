@@ -1,14 +1,14 @@
 # Preperation
-Before staring the implementaion, a few steps are required to ensure a well-planned and a stable setup environment. 
+Before staring the installation I perform a short litterature study. I use the course-book **"Opertivsystem - teori och praktiskt handhavande.**  and a introduction about Active Diretory. I do these few steps because i get more information about AD which is required to ensure a well-planned and a stable setup environment. 
 
-## Research
-A short study was made to understand the fundamentals of **Active Directory, virtualization and LAN configuration.** The following research methods were used: 
-### Youtube Research
-Research was conducted on Youtube to gain a broader understanding of the functions and practical setup of Active Drirectory.
-### Litterature Review
-Backround reading was done on Active Directory structure, domain management and best practices for implementing directory serviceds in a small business environement. 
-## Requirements
+# Software
+The following software is used is the project:
+- Windows Server 2019  Core
+- Windows Server 2019  Desktop
+- Two Windows 10 Education clients
+- Hyper - V
 
+# Network topology
+The teacher provides the IP topology. The domain name and IP configuration I will be using are based on the last digits of my student ID.
 
-
-## USERS 
+All servers are placed in the same VLAN — VLAN 85 in my case — and they use the configured NAT-switch as their default gateway.
