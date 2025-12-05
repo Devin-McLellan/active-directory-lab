@@ -19,7 +19,7 @@ The environment is built using local Hyper-V virtual machines. These versions of
 
 ---
 
-## 1.2 Active Directory
+# 1.2 Active Directory
 The core service of this project is Active Directory which is used to manage users, authentication, and access control within the network. 
 
 ---
@@ -42,7 +42,7 @@ A flowchart is created in **[draw.io](https://www.drawio.com/)** to plan the ful
 
 ---
 
-# Software
+# 1.6 Software
 - Windows Server 2019 Datacenter (Desktop Experience)
 - Windows Server 2019 Core
 - Two Windows 10 Education clients
@@ -50,7 +50,7 @@ A flowchart is created in **[draw.io](https://www.drawio.com/)** to plan the ful
 
 ---
 
-## 1.6 Network Topology
+## 1.7 Network Topology
 The network topology follows the course addressing table, where the IP structure and
 domain names are based on the last two digits of my student ID (85). All servers and
 clients use static IP addresses in the same subnet, and the NAT switch acts as the
