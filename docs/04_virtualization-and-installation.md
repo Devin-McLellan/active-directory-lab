@@ -97,4 +97,4 @@ When I changed the DNS server to point to **DC01**, the domain join worked corre
 After both clients were joined, I installed **RSAT (Remote Server Administration Tools)** on KLIENTADMIN.  
 After a restart, I verified that all RSAT components were available and that I could manage the server remotely.
 
----ö
+---
