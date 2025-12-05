@@ -1,4 +1,7 @@
 # 3.1 Preperation
+
+---
+
 Before staring the installation I perform a short litterature study. I use the course-book **"Opertivsystem - teori och praktiskt handhavande.**  and a introduction about Active Diretory. I do these few steps because i get more information about AD which is required to ensure a well-planned and a stable setup environment. 
 
 # 3.2 Software
