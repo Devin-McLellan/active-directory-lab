@@ -1,2 +1,2 @@
 # active-directory-lab
-This project demonstrates the setup and configuration of an Active Directory (AD) domain for a small company with 10 users. The goal is to implement user management, shared resources, and group policies.
+This project demonstrates how to set up and configure an Active Directory (AD) domain for a small company with ten users. The goal is to create a functional environment that includes user management, shared resources, and Group Policy configuration.
