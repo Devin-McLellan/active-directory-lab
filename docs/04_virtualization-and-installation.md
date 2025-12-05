@@ -28,6 +28,19 @@ Hyper-V was already enabled in Windows, so I created the following virtual machi
 | **KLIENT01**  | Windows 10 Education                        | 4 GB RAM   | 2 vCPU |
 | **NAT Switch** | –                                          | –          | – |
 
+|
+
+---
+
+```mermaid
+flowchart LR
+    A[DC01<br>Server 2019 GUI] --- B[NAT Switch]
+    C[DC02<br>Server 2019 Core] --- B
+    D[KLIENTADMIN<br>Windows 10] --- B
+    E[KLIENT01<br>Windows 10] --- B
+
+---
+
 I installed Windows Server 2019 on DC01 and DC02, and Windows 10 Education on both clients. After installation, I updated all machines using Windows Update.  
 Windows Firewall and antivirus software were activated on every system.
 
