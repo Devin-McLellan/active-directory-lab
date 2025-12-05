@@ -24,25 +24,28 @@ The core service of this project is Active Directory which is used to manage use
 
 ---
 
-## 1.3 Domain Configuration
+# 1.3 Domain Configuration
 A new domain is created to organize and secure user data and network resources.
-## User Management
+
+--- 
+
+# 1.4 User Management
 Ten users are added to the domain with different authentication levels and access permissions. This ensures that the user has correct permissions for software and administrative tools.
 
 ---
 
-# 1.4 Preparations
+# 1.5 Preparations
 Before starting the installation, I began a short literature review. I used the books
 *Operativsystem – teori och praktiskt handhavande* and *Windows Server 2019 Inside Out* for information. I watched an introductory video on YouTube about Active Directory. I also read the lab manual several times and created a flowchart to visualize the workflow.
 
 ---
 
-# 1.5 Flowchart
+# 1.6 Flowchart
 A flowchart is created in **[draw.io](https://www.drawio.com/)** to plan the full implementation process.
 
 ---
 
-# 1.6 Software
+# 1.7 Software
 - Windows Server 2019 Datacenter (Desktop Experience)
 - Windows Server 2019 Core
 - Two Windows 10 Education clients
