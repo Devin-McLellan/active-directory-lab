@@ -1,4 +1,4 @@
-# Goal And Purpose
+# Goals And Research Questions
 The main goal of this project is to create a functional local area network (LAN) for a small business with ten local users. The project includes the implementation of Active Directory (AD) to establish a structured and secure database for the company. 
 
 This documentaion explains the steps required to build a **fully functioning AD environment** designed for a small-scale business to use. 
