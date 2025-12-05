@@ -19,7 +19,7 @@ During the project I install the servers, configure the network, set up Active D
 
 ```mermaid
 flowchart TD
-    A[Start] --> B[Install Windows Server]
+    A[Start] --> B[Install Windows Server and Clients]
     B --> C[Configure Network]
     C --> D[Set up AD DS]
     D --> E[Create OU Structure]
