@@ -11,4 +11,4 @@ The following software is used is the project:
 # Network topology
 The teacher provides the IP topology. The domain name and IP configuration I will be using are based on the last digits of my student ID.
 
-All servers are placed in the same VLAN — VLAN 85 in my case — and they use the configured NAT-switch as their default gateway.
+All servers are placed in the same VLAN, VLAN 85 in my case, and they use the configured NAT-switch as their default gateway.
