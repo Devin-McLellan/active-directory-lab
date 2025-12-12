@@ -105,6 +105,7 @@ When the structure is finished, I go into each user account in **Active Director
 ```text
 \\DC01\Profiler$\%USERNAME%
 
+
 ---
 
 ## 8.5 Result and Verification
