@@ -114,4 +114,3 @@ The drive mapping GPO was updated with the correct share name. After a policy up
 
 ---
 
-This troubleshooting documentation reflects the practical learning process during the lab and highlights common configuration mistakes and their solutions.
