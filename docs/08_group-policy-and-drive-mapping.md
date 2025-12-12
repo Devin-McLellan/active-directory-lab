@@ -92,6 +92,21 @@ Additionally, members of the management group (*Ledning*) were given access to a
 
 ---
 
+## Roaming Profiles
+
+The next step is to configure roaming profiles so that users’ personal settings and data follow them when they log in on different client computers in the domain.
+
+I start by creating a folder on **DC01** called **Profiler**. This folder is used to store each user’s data that would normally be saved locally on the client computer. The goal is to make sure the user gets the same working environment regardless of which computer they log in to.
+
+After that, I share the folder as **Profiler$**, where the dollar sign makes the share hidden on the network. On the share level, I give **Full Control** to the **Domain Users** group. On the NTFS level, I apply the principle of least privilege, meaning that only the individual user and the administrator have full access to the profile folder.
+
+When the structure is finished, I go into each user account in **Active Directory Users and Computers**. Under the **Profile** tab, I set the profile path to:
+
+```text
+\\DC01\Profiler$\%USERNAME%
+
+---
+
 ## 8.5 Result and Verification
 
 After applying the policy, I logged in with several test users.  
