@@ -100,10 +100,7 @@ I start by creating a folder on **DC01** called **Profiler**. This folder is use
 
 After that, I share the folder as **Profiler$**, where the dollar sign makes the share hidden on the network. On the share level, I give **Full Control** to the **Domain Users** group. On the NTFS level, I apply the principle of least privilege, meaning that only the individual user and the administrator have full access to the profile folder.
 
-When the structure is finished, I go into each user account in **Active Directory Users and Computers**. Under the **Profile** tab, I set the profile path to:
-
-```text
-\\DC01\Profiler$\%USERNAME%
+When the structure is finished, I go into each user account in **Active Directory Users and Computers**. Under the **Profile** tab, I set the profile path to: **\\DC01\Profiler$\%USERNAME%**
 
 
 ---
