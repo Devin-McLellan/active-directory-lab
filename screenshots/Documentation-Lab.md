@@ -4,9 +4,10 @@ The images below show different parts of the configuration and setup of the envi
 
 ## Active Directory Structure
 <img width="821" height="610" alt="ROAMING_PROFILES" src="https://github.com/user-attachments/assets/1f9fb3a3-aa57-4bf5-9e03-acfde5f7e645" />![ACTIVE_DIRECTORY_STRUCTURE](https://github.com/user-attachments/assets/35c37a48-378b-4a14-bdb8-e31b9eb51ea0)
+### Shows the general structure of Active Directory, including OUs, users, and groups that are used throughout the configuration.
+
 
 ## Drive Maps
-### Shows the general structure of Active Directory, including OUs, users, and groups that are used throughout the configuration.
 ![DRIVE_MAPS](https://github.com/user-attachments/assets/8ba1e601-7d1f-456a-9b31-98697f1d8206)
 ### Shows the configured drive mappings that are applied to users through Group Policy.
 
